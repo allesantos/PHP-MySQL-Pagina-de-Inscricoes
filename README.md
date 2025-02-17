@@ -1,7 +1,7 @@
-# 📌 Projeto: Página de Inscrição em PHP
+#Sistema de Inscrição
 
 ## 📖 Descrição
-Este projeto é uma página de inscrição desenvolvida em **PHP** onde os usuários podem enviar seu **nome** e **e-mail** através de um formulário. Os dados enviados são armazenados em um banco de dados **MySQL** para futuras referências.
+Este projeto é um sistema de inscrição desenvolvido em **PHP** onde os usuários podem enviar seu **nome** e **e-mail** através de um formulário. Os dados enviados são armazenados em um banco de dados **MySQL** para futuras referências.
 
 ## 🚀 Recursos
 - 📋 Formulário de inscrição simples e intuitivo.
