@@ -18,7 +18,7 @@ Este projeto é um sistema de inscrição desenvolvido em **PHP** onde os usuár
 - 🔗 Integração entre **HTML**, **CSS** e **PHP**.
 - ✅ Validação básica dos campos do formulário.
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias
 - **HTML5**
 - **CSS3**
 - **PHP**
@@ -53,7 +53,7 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em seu
    http://localhost/seu-projeto
    ```
 
-## ▶️ Uso
+## ▶️ Uso 
 1. Acesse a página de inscrição.
 2. Preencha os campos com seu **Nome** e **E-mail**.
 3. Clique em **Enviar**.
