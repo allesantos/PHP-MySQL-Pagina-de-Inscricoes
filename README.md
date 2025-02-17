@@ -81,7 +81,7 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em seu
 
    <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Inscricoes/inscricao3.png">
    
-7. Os dados serão armazenados no banco de dados.
+7. Os dados serão armazenados no banco de dados. Você também receberá uma mensagem de confirmação, caso dê tudo certo!
 
    <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Inscricoes/inscricao4.png">
 
