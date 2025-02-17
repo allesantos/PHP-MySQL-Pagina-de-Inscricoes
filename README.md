@@ -73,9 +73,17 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em seu
 
 ## 💻 Uso  
 1. Acesse a página de inscrição.
-2. Preencha os campos com seu **Nome** e **E-mail**.
-3. Clique em **Enviar**.
-4. Os dados serão armazenados no banco de dados.
+3. Preencha os campos com seu **Nome** e **E-mail**.
+   
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Inscricoes/inscricao2.png">
+   
+5. Clique em **Enviar**.
+
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Inscricoes/inscricao3.png">
+   
+7. Os dados serão armazenados no banco de dados.
+
+   <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Inscricoes/inscricao4.png">
 
 ---
 
