@@ -76,18 +76,24 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em seu
 Quer contribuir com este projeto? Siga os passos:
 1. Faça um **fork** do repositório.
 2. Crie uma **branch** para sua modificação:
+   
    ```sh
    git checkout -b minha-modificacao
    ```
-3. Faça o **commit** das suas alterações:
+   
+4. Faça o **commit** das suas alterações:
+   
    ```sh
    git commit -m "Adicionando nova funcionalidade"
    ```
-4. Envie para o repositório remoto:
+   
+6. Envie para o repositório remoto:
+   
    ```sh
    git push origin minha-modificacao
    ```
-5. Abra um **Pull Request** no GitHub.
+   
+8. Abra um **Pull Request** no GitHub.
 
 ---
 
