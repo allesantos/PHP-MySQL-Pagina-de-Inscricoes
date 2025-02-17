@@ -1,14 +1,5 @@
 # 📌 Sistema de Inscrição
 
-## 📖 Descrição
-Este projeto é um sistema de inscrição desenvolvido em **PHP** onde os usuários podem enviar seu **nome** e **e-mail** através de um formulário. Os dados enviados são armazenados em um banco de dados **MySQL** para futuras referências.
-
-## 🚀 Recursos
-- 📋 Formulário de inscrição simples e intuitivo.
-- 🗄️ Armazenamento dos dados em um banco de dados MySQL.
-- 🔗 Integração entre **HTML**, **CSS** e **PHP**.
-- ✅ Validação básica dos campos do formulário.
-
 ## 📌 Índice
 - [📜 Descrição](#-descrição)
 - [🚀 Recursos](#-recursos)
@@ -18,6 +9,15 @@ Este projeto é um sistema de inscrição desenvolvido em **PHP** onde os usuár
 - [▶️ Uso](#-uso)
 - [🤝 Contribuição](#-contribuição)
 - [📄 Licença](#-licença)
+
+## 📖 Descrição
+Este projeto é um sistema de inscrição desenvolvido em **PHP** onde os usuários podem enviar seu **nome** e **e-mail** através de um formulário. Os dados enviados são armazenados em um banco de dados **MySQL** para futuras referências.
+
+## 🚀 Recursos
+- 📋 Formulário de inscrição simples e intuitivo.
+- 🗄️ Armazenamento dos dados em um banco de dados MySQL.
+- 🔗 Integração entre **HTML**, **CSS** e **PHP**.
+- ✅ Validação básica dos campos do formulário.
 
 ## 🛠 Tecnologias Utilizadas
 - **HTML5**
