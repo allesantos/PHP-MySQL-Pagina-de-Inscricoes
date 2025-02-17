@@ -2,6 +2,8 @@
 
 Este projeto é um sistema de inscrição desenvolvido em **PHP** onde os usuários podem enviar seu **nome** e **e-mail** através de um formulário. Os dados enviados são armazenados em um banco de dados **MySQL** para futuras referências.
 
+---
+
 ## 📌 Índice
 - [🚀 Recursos](#-recursos)
 - [🛠 Tecnologias](#-tecnologias)
@@ -11,6 +13,7 @@ Este projeto é um sistema de inscrição desenvolvido em **PHP** onde os usuár
 - [🤝 Contribuição](#-contribuição)
 - [📄 Licença](#-licença)
 
+---
 
 ## 🚀 Recursos
 - 📋 Formulário de inscrição simples e intuitivo.
@@ -18,11 +21,15 @@ Este projeto é um sistema de inscrição desenvolvido em **PHP** onde os usuár
 - 🔗 Integração entre **HTML**, **CSS** e **PHP**.
 - ✅ Validação básica dos campos do formulário.
 
+---
+
 ## 🛠 Tecnologias
 - **HTML5**
 - **CSS3**
 - **PHP**
 - **MySQL**
+
+---
 
 ## 📌 Pré-requisitos
 Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em seu ambiente:
@@ -30,6 +37,8 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em seu
 - **PHP 7+**
 - **MySQL**
 - **Git** (opcional, para controle de versão)
+
+---
 
 ## 🔧 Instalação
 1. Clone este repositório ou faça o download dos arquivos:
@@ -53,11 +62,15 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em seu
    http://localhost/seu-projeto
    ```
 
+---
+
 ## 💻 Uso  
 1. Acesse a página de inscrição.
 2. Preencha os campos com seu **Nome** e **E-mail**.
 3. Clique em **Enviar**.
 4. Os dados serão armazenados no banco de dados.
+
+---
 
 ## 🤝 Contribuição
 Quer contribuir com este projeto? Siga os passos:
@@ -75,6 +88,8 @@ Quer contribuir com este projeto? Siga os passos:
    git push origin minha-modificacao
    ```
 5. Abra um **Pull Request** no GitHub.
+
+---
 
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
