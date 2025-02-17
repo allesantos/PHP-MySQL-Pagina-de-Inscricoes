@@ -79,5 +79,4 @@ Quer contribuir com este projeto? Siga os passos:
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-💡 *Feito com dedicação para facilitar inscrições online!* 🚀
+📌 Desenvolvido com ❤️ por Alexandre Santos
