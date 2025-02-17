@@ -9,6 +9,16 @@ Este projeto é um sistema de inscrição desenvolvido em **PHP** onde os usuár
 - 🔗 Integração entre **HTML**, **CSS** e **PHP**.
 - ✅ Validação básica dos campos do formulário.
 
+## 📌 Índice
+- [📜 Descrição](#-descrição)
+- [🚀 Recursos](#-recursos)
+- [🛠 Tecnologias](#-tecnologias)
+- [✅ Pré-requisitos](#-pré-requisitos)
+- [💾 Instalação](#-instalação)
+- [▶️ Uso](#-uso)
+- [🤝 Contribuição](#-contribuição)
+- [📄 Licença](#-licença)
+
 ## 🛠 Tecnologias Utilizadas
 - **HTML5**
 - **CSS3**
