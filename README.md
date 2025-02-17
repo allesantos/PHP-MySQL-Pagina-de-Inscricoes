@@ -1,4 +1,4 @@
-#Sistema de Inscrição
+# 📌 Sistema de Inscrição
 
 ## 📖 Descrição
 Este projeto é um sistema de inscrição desenvolvido em **PHP** onde os usuários podem enviar seu **nome** e **e-mail** através de um formulário. Os dados enviados são armazenados em um banco de dados **MySQL** para futuras referências.
