@@ -42,22 +42,27 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em seu
 
 ## 🔧 Instalação
 1. Clone este repositório ou faça o download dos arquivos:
+   
    ```sh
    git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
-2. Mova os arquivos para a pasta do seu servidor local (ex: `htdocs` no XAMPP).
-3. Importe o banco de dados para o MySQL:
+   
+3. Mova os arquivos para a pasta do seu servidor local (ex: `htdocs` no XAMPP).
+4. Importe o banco de dados para o MySQL:
    - Abra o **phpMyAdmin**.
    - Crie um banco de dados chamado `db_clientes`.
    - Importe o arquivo `db_clientes.sql`.
-4. Configure as credenciais do banco no arquivo `config.php`:
+5. Configure as credenciais do banco no arquivo `config.php`:
+   
    ```php
    $db_servidor = 'localhost';
    $db_usuario = 'root';
    $db_senha = '';
    $db_nomeDB = 'db_clientes';
    ```
-5. Inicie o servidor local e acesse a página no navegador:
+   
+7. Inicie o servidor local e acesse a página no navegador:
+   
    ```
    http://localhost/seu-projeto
    ```
